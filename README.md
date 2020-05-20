@@ -1,3 +1,3 @@
 # Nithilam.com
-Personal Website
- Coming Sooooooon!
+
+personal website: nsubbaian.github.io
