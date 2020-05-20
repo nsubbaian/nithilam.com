@@ -1,3 +1,3 @@
 # Personal Website
 
-personal website: nsubbaian.github.io
+nsubbaian.github.io
