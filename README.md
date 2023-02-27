@@ -1,3 +1,3 @@
 # Personal Website
 
-URL: nsubbaian.github.io
+URL: nithilam.com
